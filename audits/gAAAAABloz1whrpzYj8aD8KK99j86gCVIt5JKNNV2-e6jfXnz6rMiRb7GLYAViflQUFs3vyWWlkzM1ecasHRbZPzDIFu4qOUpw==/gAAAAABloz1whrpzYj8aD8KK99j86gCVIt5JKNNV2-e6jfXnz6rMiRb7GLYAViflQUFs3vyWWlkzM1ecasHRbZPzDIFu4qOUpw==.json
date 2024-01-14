@@ -1,0 +1,18 @@
+{
+    "name": "gAAAAABloz1whrpzYj8aD8KK99j86gCVIt5JKNNV2-e6jfXnz6rMiRb7GLYAViflQUFs3vyWWlkzM1ecasHRbZPzDIFu4qOUpw==",
+    "short_hash": "48966b7724",
+    "size_bytes": 202726,
+    "size": "198.0 KB",
+    "tar_size": "91.0 KB",
+    "zip_size": "104.8 KB",
+    "number_of_files": 51,
+    "number_of_files_with_ignores": 45,
+    "file_types": {
+        "yaml": 1,
+        "md": 1,
+        "gitignore": 1,
+        "json": 2,
+        "example": 1,
+        "ts": 16
+    }
+}
