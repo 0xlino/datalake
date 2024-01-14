@@ -1,0 +1,11 @@
+githubs
+githubs-old
+githubs-old2
+.vscode
+__pycache__
+.DS_Store
+scripts
+bl-secrets.py
+tars
+program.py
+magicalBringBackMachine.py
