@@ -1,0 +1,20 @@
+{
+    "name": "gAAAAABlo0j191IjyZCRQf1llmswAL2rdi3XyQUoFgOKeCQyPcwjtR-rx2uwLyHcKZfZK1RtWl9hythQVDd7sMoBgcVliQUz6A==",
+    "short_hash": "ca59102633",
+    "size_bytes": 1847638,
+    "size": "1.8 MB",
+    "tar_size": "542.5 KB",
+    "zip_size": "682.8 KB",
+    "number_of_files": 328,
+    "number_of_files_with_ignores": 328,
+    "file_types": {
+        "js": 170,
+        "html": 14,
+        "tsx": 59,
+        "ts": 7,
+        "png": 18,
+        "svg": 38,
+        "webp": 16,
+        "mp4": 3
+    }
+}
